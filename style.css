@@ -1,0 +1,68 @@
+.container{
+    margin-bottom: 100px;
+}
+.nav{
+    padding-right: 10px;
+    
+}
+.sign-in{
+    background-image: linear-gradient(to bottom,#ff589B 0%, #ff136f 100% );
+    color: #FFF;
+    border: none;
+    border-radius: 12px;
+    padding: 9px 25px;
+    cursor: pointer;
+    position: static;
+}
+.get-started{
+    background-image: linear-gradient(to bottom,#ff589B 0%, #ff136f 100% );
+    color: #FFF;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.icon{
+    align-self: center;
+}
+.card, .card-footer{
+    border: none;
+}
+.icon-text{
+    margin: 0 auto;
+}
+.online-course, .testimonial h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.buy-course{
+    background-image: linear-gradient(to bottom,#ff589B 0%, #ff136f 100% );
+    color: #FFF;
+    border: none;
+    border-radius: 15px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.man{
+    width: 120px;
+    height: 120px;
+}
+.test{
+    padding: 0 100px 0 100px;
+}
+footer{
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+.simple-text{
+    padding: 0 30px 0 50px;
+    text-align: center;
+}
+.copyright{
+    text-align: center;
+    padding: 100px 0 50px 0;
+}
+.end-section{
+    padding-top: 60px;
+}
